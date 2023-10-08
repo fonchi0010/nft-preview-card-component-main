@@ -2,6 +2,10 @@
 
 **I can resolve this challenge**.
 
+![Mobile First](./complete/nft-preview-card-component-mobile)
+
+![Desktop](./complete/nft-preview-card-component-desktop.png) 
+
 ## First impressions! ☀️ 
 
 **Interesting and fun challenge.**
