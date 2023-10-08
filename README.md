@@ -2,7 +2,7 @@
 
 **I can resolve this challenge**.
 
-![Mobile First](./complete/nft-preview-card-component-mobile)
+![Mobile First](./complete/nft-preview-card-component-mobile.png)
 
 ![Desktop](./complete/nft-preview-card-component-desktop.png) 
 
